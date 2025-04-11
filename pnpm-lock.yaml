@@ -1530,13 +1530,13 @@ packages:
   '@irys/sdk@0.0.2':
     resolution: {integrity: sha512-un/e/CmTpgT042gDwCN3AtISrR9OYGMY6V+442pFmSWKrwrsDoIXZ8VlLiYKnrtTm+yquGhjfYy0LDqGWq41pA==}
     engines: {node: '>=16.10.0'}
-    deprecated: 'Arweave support is deprecated - We recommend migrating to the Irys datachain: https://migrate-to.irys.xyz/'
+    deprecated: 'Arweave support is deprecated - We recommend migrating to the Irys datachain: https://docs.irys.xyz/build/d/migrating/'
     hasBin: true
 
   '@irys/sdk@0.2.11':
     resolution: {integrity: sha512-z3zKlKYEqRHuCGyyVoikL1lT4Jwt8wv7e4MrMThNfhfT/bdKQHD9lEVsX77DBnLJrBBKKg5rRcEzMtVkpNx3QA==}
     engines: {node: '>=16.10.0'}
-    deprecated: 'Arweave support is deprecated - We recommend migrating to the Irys datachain: https://migrate-to.irys.xyz/'
+    deprecated: 'Arweave support is deprecated - We recommend migrating to the Irys datachain: https://docs.irys.xyz/build/d/migrating/'
     hasBin: true
 
   '@isaacs/cliui@8.0.2':
